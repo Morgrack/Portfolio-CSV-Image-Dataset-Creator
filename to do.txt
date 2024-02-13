@@ -1,0 +1,8 @@
+1. Make Prompt look pretty.
+2. Add back box to currentImage and count in top left.
+3. Add confirmation boxes to currentImage.
+
+Set can be test training validation, label is whatever, bounding box should include 4 vertices, not just 2
+Need inputs to define set and label (dropdown and text input in the prompt object)
+
+https://cloud.google.com/vertex-ai/docs/image-data/object-detection/prepare-data
